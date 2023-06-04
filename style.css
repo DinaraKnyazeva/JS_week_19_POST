@@ -1,0 +1,32 @@
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+body {
+  background-color: #a9ccaa;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#post-container__title {
+  font-weight: 900;
+  color: darkgreen;
+  margin-bottom: 2px;
+}
+#post-container__inner {
+  padding: 10px;
+}
+input {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+}
+#post__container {
+  padding: 25px;
+}
